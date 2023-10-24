@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://altaf:altaf123@cluster0.eeglixr.mongodb.net/?retryWrites=true&w=majority
+      database: test
