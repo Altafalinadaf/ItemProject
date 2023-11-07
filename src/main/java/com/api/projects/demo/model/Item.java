@@ -1,5 +1,5 @@
 package com.api.projects.demo.model;
-
+ 
 import lombok.*;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
